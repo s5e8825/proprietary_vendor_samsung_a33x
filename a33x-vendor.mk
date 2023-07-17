@@ -26,8 +26,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a33x/proprietary/odm/etc/permissions/sku_hcesimese/android.hardware.nfc.uicc.xml:$(TARGET_COPY_OUT_ODM)/etc/permissions/sku_hcesimese/android.hardware.nfc.uicc.xml \
     vendor/samsung/a33x/proprietary/odm/etc/permissions/sku_hcesimese/android.hardware.nfc.xml:$(TARGET_COPY_OUT_ODM)/etc/permissions/sku_hcesimese/android.hardware.nfc.xml \
     vendor/samsung/a33x/proprietary/odm/etc/permissions/sku_hcesimese/com.nxp.mifare.xml:$(TARGET_COPY_OUT_ODM)/etc/permissions/sku_hcesimese/com.nxp.mifare.xml \
-    vendor/samsung/a33x/proprietary/recovery/ramdisk/vendor/firmware/ft3519_a33x.bin:$(TARGET_COPY_OUT_RECOVERY)/ramdisk/vendor/firmware/ft3519_a33x.bin \
-    vendor/samsung/a33x/proprietary/recovery/ramdisk/vendor/firmware/gt9895_a33x.bin:$(TARGET_COPY_OUT_RECOVERY)/ramdisk/vendor/firmware/gt9895_a33x.bin \
+    vendor/samsung/a33x/proprietary/recovery/ramdisk/vendor/firmware/ft3519_a33x.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/ft3519_a33x.bin \
+    vendor/samsung/a33x/proprietary/recovery/ramdisk/vendor/firmware/gt9895_a33x.bin:$(TARGET_COPY_OUT_RECOVERY)/root/vendor/firmware/gt9895_a33x.bin \
     vendor/samsung/a33x/proprietary/vendor/apex/com.samsung.android.biometrics.face.signed.apex:$(TARGET_COPY_OUT_VENDOR)/apex/com.samsung.android.biometrics.face.signed.apex \
     vendor/samsung/a33x/proprietary/vendor/apex/com.samsung.android.biometrics.fingerprint.signed.apex:$(TARGET_COPY_OUT_VENDOR)/apex/com.samsung.android.biometrics.fingerprint.signed.apex \
     vendor/samsung/a33x/proprietary/vendor/bin/dsmsca:$(TARGET_COPY_OUT_VENDOR)/bin/dsmsca \
